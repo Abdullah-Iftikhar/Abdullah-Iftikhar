@@ -33,11 +33,13 @@ class About extends Me
     {
         return [
             'working_on' => [
-                'careerfy.pk - A platform to facilitate hiring managers to pick talent from local market',
+                'autotalk.ai - AI-based bots help to grow businesses.',
+                'oblyalo.com - Entertainment platform'
             ],
             'learning' => [
                 'Advance Programing Techniques',
-                'MEARN'
+                'AI',
+                'Python'
             ]
         ];
     }
