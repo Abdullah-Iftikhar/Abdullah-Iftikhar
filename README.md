@@ -22,6 +22,7 @@ class About extends Me
     {
         return [
             'work' => [
+                 'Full Stack Developer - Freelancer (Open To Work)',
                 'Full Stack Developer - Al-burraq Technologies',
                 'Laravel Developer - JuexDeveloper (Handle API work for Mobile Apps)',
                 'Laravel Developer - Einnovetion'
